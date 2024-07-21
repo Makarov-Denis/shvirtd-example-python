@@ -2,6 +2,7 @@
 
 ## Решение 1
 
+На скриншоте ниже представлена установленная версия Docker Compose 
 ![version](https://github.com/user-attachments/assets/788a5975-f756-4f6d-a172-101df8a2c319)
 
 ## Решение 3
