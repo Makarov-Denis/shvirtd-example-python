@@ -9,6 +9,7 @@
 На данном скриншоте представлен запуск командой docker compose up -d
 ![zapusk](https://github.com/user-attachments/assets/9303bafd-a3d3-4fc2-a67f-0a8df275a818)
 
+На данном скриншоте представлены запущенные контейнеры.
 ![containers](https://github.com/user-attachments/assets/7757caff-ec88-471b-9674-3ec5b7cbaaf5)
 
 ![proverka](https://github.com/user-attachments/assets/85130591-73ac-4b8a-b605-1d7dc045931d)
