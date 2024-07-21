@@ -18,7 +18,7 @@
 
 ## Решение 4
 
-На данном скриншоте представлена работа в Яндекс облаке на виртуальной машине 
+На данном скриншоте представлена работа в Яндекс облаке на виртуальной машине proektdocker.
 ![Облако](https://github.com/user-attachments/assets/47dd380a-fb24-45bd-8a8c-07f6ff037c60)
 
 [Ссылка на репозторий](https://github.com/Makarov-Denis/shvirtd-example-python)
